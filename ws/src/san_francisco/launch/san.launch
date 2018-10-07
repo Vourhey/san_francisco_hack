@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<launch> 
+    <node name="san_francisco_worker" pkg="san_francisco" type="worker" output="screen"> 
+    </node>
+</launch>
